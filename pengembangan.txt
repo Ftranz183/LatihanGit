@@ -1,0 +1,2 @@
+setelah belajar Git dan VS Code. 
+Rencana saya selanjutnya adalah mengembangkan proyek ini menjadi sebuah website
