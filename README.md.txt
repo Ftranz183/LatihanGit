@@ -1,0 +1,1 @@
+proyek latihan adalah proyek untuk melatih saya dalam menggunakan Vs code dan Git
